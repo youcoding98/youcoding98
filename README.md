@@ -1,3 +1,6 @@
-# youcoding98
-# Heading
-### Heading
+# 借助Github托管项目
+### 仓库Repository：你的项目；每个项目对应一个仓库，多个开源项目则有多个项目，
+### 收藏Star：收藏项目人数；方便下次查看
+### Fork：复制克隆项目，会自动生成该仓库，其独立存在，forked from XXX
+### PullRequest 想把自己的改进合并到原有项目里面的请求
+### watch：关注项目，当有更新可收到通知
