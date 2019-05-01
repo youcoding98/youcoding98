@@ -15,7 +15,8 @@
 设置邮箱：git config --global user.email "xxxx@163.com"
 命令：git init 创建Git仓库（是隐藏文件夹形式的）
 ### 向仓库中添加文件流程
-
+ ![Image text](https://github.com/youcoding98/youcoding98/blob/master/img-storage/%E4%BB%93%E5%BA%93%E6%B7%BB%E5%8A%A0%E6%96%87%E4%BB%B6.png)
+ 1111111
 
 
 
