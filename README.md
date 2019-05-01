@@ -11,8 +11,8 @@
 ## Git的安装和使用（管理GitHub托管项目代码）
 ### 下载地址：https://git-scm.com/downloads
 检验是否安装成功：点击桌面右键出现Git GUI和Git Bash
-设置用户名：git config --global user.name "youcoding98"
-设置邮箱：git config --global user.email "geyou0217@163.com"
+设置用户名：git config --global user.name "xxxxx"
+设置邮箱：git config --global user.email "xxxx@163.com"
 命令：git init 创建Git仓库（是隐藏文件夹形式的）
 ### 向仓库中添加文件流程
 
