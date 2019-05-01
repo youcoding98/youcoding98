@@ -48,4 +48,6 @@
 ### Project Pages 项目站点 https://youcoding98.github.io/仓库名
 ### 搭建步骤
 #### 1进入项目主页，点击settings
-#### 2在settings页面，点击【】
+#### 2在settings页面，点击【Launch antomatic page generator】来自动生成主题页面
+#### 3新建站点基础信息设置
+#### 4选择主题生成网页
