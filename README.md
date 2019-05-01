@@ -45,3 +45,7 @@
 ### 搭建步骤
 #### 1 创建个人站点 -> 新建仓库（注：仓库名必须是【用户名.github.io】）
 #### 2 在仓库下新建index.html的文件即可
+### Project Pages 项目站点 https://youcoding98.github.io/仓库名
+### 搭建步骤
+#### 1进入项目主页，点击settings
+#### 2在settings页面，点击【】
