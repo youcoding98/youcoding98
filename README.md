@@ -13,6 +13,7 @@
 #### 检验是否安装成功：点击桌面右键出现Git GUI和Git Bash
 #### 设置用户名：git config --global user.name "xxxxx"
 #### 设置邮箱：git config --global user.email "xxxx@163.com"
+#### 查看设置：git config --list
 #### 命令：git init 创建Git仓库（是隐藏文件夹形式的）
 ### 向仓库中添加文件流程
  ![Image text](https://github.com/youcoding98/youcoding98/blob/master/img-storage/%E4%BB%93%E5%BA%93%E6%B7%BB%E5%8A%A0%E6%96%87%E4%BB%B6.png)
@@ -32,5 +33,6 @@
 ![Image text](https://github.com/youcoding98/youcoding98/blob/master/img-storage/git2.jpg)
 ### Git克隆操作
 目的：将远程仓库(github对应的项目)复制到本地  
-代码：git clone 仓库地址  
+#### 代码：git clone 仓库地址https：//
+### 将本地仓库同步到git远程仓库中 ：git push
 
