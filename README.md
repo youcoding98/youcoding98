@@ -29,4 +29,8 @@
  #### git commit -m '第一次通过Git删除仓库文件'
  ----------------------------------------------------------------------
  ## Git管理远程仓库
+![Image text](https://github.com/youcoding98/youcoding98/blob/master/img-storage/git2.jpg)
+### Git克隆操作
+目的：将远程仓库(github对应的项目)复制到本地  
+代码：git clone 仓库地址  
 
